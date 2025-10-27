@@ -1,4 +1,4 @@
-Project ini dibuat untuk praktikum **Pengolahan Citra Digital (Pekan 7)**  
+Project ini dibuat untuk praktikum **Pengolahan Citra Digital ( Materi Pertemuan 7)**  
 Materi: *Segmentasi Lanjut (Edge-based & Region-based)*  
 Dosen: **DR ARYA ADHYAKSA WASKITA S.SI.,M.SI**  
 
