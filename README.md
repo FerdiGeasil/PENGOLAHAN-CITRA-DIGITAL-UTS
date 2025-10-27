@@ -107,17 +107,6 @@ if __name__ == "__main__":
     compare_segmentation_methods(image_path)
 ```
 
----
-
-## 📸 Contoh Output
-| Metode | Hasil |
-|:-------|:------|
-| Sobel Edge | ![sobel](images/sobel_example.png) |
-| Canny Edge | ![canny](images/canny_example.png) |
-| Watershed | ![watershed](images/watershed_example.png) |
-
----
-
 ## 👨‍💻 Penulis
 **Nama:** Ferdi Zandio
 **Mata Kuliah:** Pengolahan Citra Digital  
