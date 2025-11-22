@@ -112,32 +112,4 @@ if __name__ == "__main__":
 **Mata Kuliah:** Pengolahan Citra Digital  
 **Topik:** Segmentasi Lanjut (Edge-based & Region-based)
 
----
-
-## 📬 Cara Upload ke GitHub
-
-1. Buka [https://github.com](https://github.com) dan login.
-2. Klik **New Repository** → beri nama `UTSFerdiZandio7`
-3. Upload file:
-   - `UTSFerdiZandio7.py`
-   - `README.md`
-   - Gambar uji (misal: `img2.jpg`)
-4. Atau gunakan perintah Git:
-   ```bash
-   git init
-   git add .
-   git commit -m "Upload final project segmentasi citra"
-   git branch -M main
-   git remote add origin https://github.com/<username>/segmentasi-citra.git
-   git push -u origin main
-   ```
-
-5. Link GitHub hasil upload:
-   ```
-   https://github.com/<username>/UTSFerdiZandio7
-   ```
-   Kirim link ini sebagai tugas kamu.
-
----
-
 Proyek ini bersifat open-source untuk keperluan pembelajaran akademik.
